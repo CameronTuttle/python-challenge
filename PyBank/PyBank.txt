@@ -1,0 +1,6 @@
+
+The total number of months in the data is 86
+The net profit/ loss is $38382578
+The mean monthly profit/ loss is $-2315
+The greatest monthly increase in profits was on Feb-2012 and it was $1926159
+The greatest monthly decrease in profits was on Sep-2013 and it was $-2196167
